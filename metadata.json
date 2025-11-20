@@ -1,0 +1,5 @@
+{
+  "name": "CopyButton Maker",
+  "description": "A developer tool to instantly generate custom, ready-to-use 'Copy to Clipboard' buttons with HTML, CSS, and Vanilla JavaScript. Customize styles, animations, and copy behavior.",
+  "requestFramePermissions": []
+}
